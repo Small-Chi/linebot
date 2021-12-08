@@ -37,7 +37,7 @@ export default {
               contents: [
                 {
                   type: 'text',
-                  text: '|',
+                  text: '➤',
                   color: '#aaaaaa',
                   size: 'xl',
                   flex: 0
