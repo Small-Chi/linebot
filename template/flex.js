@@ -20,7 +20,7 @@ export default {
       contents: [
         {
           type: 'text',
-          text: '找星星☆星曆選單',
+          text: '找星星🌔星曆選單',
           weight: 'bold',
           size: 'xl'
         },
