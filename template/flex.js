@@ -37,6 +37,13 @@ export default {
               contents: [
                 {
                   type: 'text',
+                  text: '|',
+                  color: '#aaaaaa',
+                  size: 'xl',
+                  flex: 0
+                },
+                {
+                  type: 'text',
                   text: '點選「指定日期」查詢星曆，或選擇「最新活動」快速產生 5 筆最新消息。',
                   wrap: true,
                   color: '#666666',
