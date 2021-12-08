@@ -39,7 +39,7 @@ export default {
                   type: 'text',
                   text: '➤',
                   color: '#aaaaaa',
-                  size: 'xl',
+                  size: 'sm',
                   flex: 0
                 },
                 {
