@@ -19,6 +19,8 @@ bot.on('message', async (event) => {
   if (event.message.type === 'text') {
     if (event.message.text.startsWith('選單')) {
       flex(event)
+    } else {
+      event.reply('我聽不懂哩在供蝦餃(ಠ_ಠ)～請使用手機「所有資訊」上的功能')
     }
   }
 })
