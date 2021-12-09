@@ -49,11 +49,12 @@ bot.on('message', async (event) => {
                 },
                 {
                   type: 'text',
-                  text: five[j].title,
+                  text: correct[i].title,
                   weight: 'bold',
                   size: 'xl',
                   margin: 'md',
-                  wrap: true
+                  wrap: true,
+                  style: 'italic'
                 },
                 {
                   type: 'separator',
@@ -289,7 +290,8 @@ bot.on('postback', async (event) => {
                 weight: 'bold',
                 size: 'xl',
                 margin: 'md',
-                wrap: true
+                wrap: true,
+                style: 'italic'
               },
               {
                 type: 'separator',
