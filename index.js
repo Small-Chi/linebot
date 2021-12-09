@@ -52,7 +52,7 @@ bot.on('message', async (event) => {
                   text: five[j].title,
                   weight: 'bold',
                   size: 'xxl',
-                  margin: 'md',
+                  margin: 'sm',
                   wrap: true
                 },
                 {
@@ -288,7 +288,7 @@ bot.on('postback', async (event) => {
                 text: correct[i].title,
                 weight: 'bold',
                 size: 'xxl',
-                margin: 'md',
+                margin: 'sm',
                 wrap: true
               },
               {
