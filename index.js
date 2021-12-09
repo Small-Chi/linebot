@@ -153,7 +153,7 @@ bot.on('postback', async (event) => {
                     type: 'button',
                     action: {
                       type: 'uri',
-                      label: '前往詳細資訊',
+                      label: '前往詳細內容',
                       uri: correct[i].link
                     }
                   }
@@ -385,7 +385,7 @@ bot.on('message', async (event) => {
                     type: 'button',
                     action: {
                       type: 'uri',
-                      label: '前往詳細資訊',
+                      label: '前往詳細內容',
                       uri: five[j].link
                     }
                   }
