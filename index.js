@@ -29,7 +29,7 @@ bot.on('message', async (event) => {
       flex(event)
     } else if (event.message.text === '最新活動') {
       const filter = events.filter(event => event.date.length > 0)
-      const five = filter.slice(0, 5)
+      const five = filter.slice(0, 6)
       console.log(five)
       for (let j = 0; j < five.length; j++) {
         console.log(five[j].date)
