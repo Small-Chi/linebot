@@ -244,7 +244,7 @@ bot.on('message', async (event) => {
       event.reply(flexqq)
       console.log(five)
     } else {
-      event.reply('請手動輸入文字 " 選單 " 喚出「星曆選單」工具，或使用手機版「所有資訊」上的功能')
+      event.reply('請手動輸入文字 " 選單 " 喚出「星曆選單」工具，或使用手機版下方選單「所有資訊」上的功能')
     }
   }
 })
