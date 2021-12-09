@@ -20,7 +20,7 @@ bot.on('message', async (event) => {
     if (event.message.text.startsWith('選單')) {
       flex(event)
     } else {
-      event.reply('我聽不懂哩在供蝦餃(ಠ_ಠ)～請使用手機「所有資訊」上的功能')
+      event.reply('請手動輸入文字 " 選單 " 喚出「星曆選單」工具，或使用手機版「所有資訊」上的功能')
     }
   }
 })
