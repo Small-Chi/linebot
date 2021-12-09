@@ -27,7 +27,7 @@ const fetchData = async () => {
 
       $('.post tbody tr').each((index, element) => {
         events.push({
-          title: $(element).find('td').eq(1).text().replace(/(\d+\/\d+\/\d+|~)+\d/g, '').trim(),
+          title: $(element).find('td').eq(1).text().replace(/(\d+\/\d+\/\d+|~)\d/g, '').trim(),
           date: $(element).find('td').eq(1).text().match(/\d+\/\d+\/\d+/g)?.[0] || '',
           eye: $(element).find('[src*=V1.png]').length === 1,
           camera: $(element).find('[src*=V4.png]').length === 1,
