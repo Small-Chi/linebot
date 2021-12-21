@@ -27,7 +27,7 @@
 ![line-說明10](https://user-images.githubusercontent.com/90738780/146895161-14d00324-8d4a-4c30-8c4e-e657e1970eaf.png)
 ![line-說明11](https://user-images.githubusercontent.com/90738780/146895165-0d684419-0489-482c-8bff-8826e1f871be.png)
 
-### 2. 當天沒有活動(建議先用星曆選單「全部列表」確認當天有沒有活動，再使用指定日期功能)
+### 2. 當天沒有活動 (建議先用星曆選單「全部列表」確認當天有沒有活動，再使用指定日期功能)
 ![line-說明12](https://user-images.githubusercontent.com/90738780/146896371-338f6099-1e2c-455d-925d-83bc2268abfe.png)
 
 
