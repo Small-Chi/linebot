@@ -10,12 +10,12 @@
 
 ## 星曆選單說明 - 指定日期 (產生 1 筆指定資訊)
 ![line-說明2](https://user-images.githubusercontent.com/90738780/146890632-dc55f3ac-e6d7-436d-8e97-763805cffaf6.png)
-![line-說明3](https://user-images.githubusercontent.com/90738780/146892910-8b12b9a2-8e3a-4175-9767-e0f1f1c7bb5d.png)
+![line-說明3](https://user-images.githubusercontent.com/90738780/147174004-9495785c-1024-4d3a-a100-a2125f935df4.png)
 ![line-說明4](https://user-images.githubusercontent.com/90738780/146892442-762292c8-d282-4f57-b3dc-4bceba1daf95.png)
 ![line-說明5](https://user-images.githubusercontent.com/90738780/146892450-e17e2fbd-cf14-49fa-b626-b776accb08f4.png)
 
 ## 星曆選單說明 - 最新活動 (產生 5 筆最新資訊)
-![line-說明6](https://user-images.githubusercontent.com/90738780/146892925-3bb11fca-0137-42ea-bc84-fc7f4c306d6d.png)
+![line-說明6](https://user-images.githubusercontent.com/90738780/147174024-fde6daa1-331b-4ef7-9baf-a41848fac934.png)
 ![line-說明7](https://user-images.githubusercontent.com/90738780/146893568-446bb62b-50fb-4fe5-babd-c57d52dd412e.png)
 
 ## 星曆選單說明 - 全部列表 (跳轉全部星曆列表連結頁面)
